@@ -6,7 +6,7 @@ import searchIcon from './search.svg';
 import MovieCard from './MovieCard';
 const API_URL= 'http://www.omdbapi.com/?i=tt3896198&apikey=affa7d76'; 
 
-const movie1 = {
+const movie= {
     "Title": "Avengers: Endgame",
     "Year": "2019",
     "imdbID": "tt4154796",
